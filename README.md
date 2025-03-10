@@ -37,7 +37,7 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
             <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/mohammed-arif-a-a34544329/" target="_blank">
+        <a href="https://www.linkedin.com/in/mohammed-arif-codes11/" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
     </p>
