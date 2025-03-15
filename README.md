@@ -28,36 +28,38 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
 <details align="center">
     <summary> 🌐 Connect with Me </summary>
     <p align="center">
         <p>Find me on</p>
         <!-- Gmail -->
         <a href="mailto:arifcodes11@gmail.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
         </a>
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/mohammed-arif-codes11/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
         </a>
         <!-- YouTube -->
         <a href="https://www.youtube.com/@yourchannel" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
+            <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
         </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/yourprofile" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
         </a>
         <!-- Twitch -->
         <a href="https://www.twitch.tv/yourprofile" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
+            <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="Twitch" />
         </a>
         <!-- Discord -->
         <a href="https://discord.gg/yourserver" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+            <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
         </a>
     </p>
 </details>
+
 
 
 <p align="center">
