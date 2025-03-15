@@ -64,9 +64,10 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 <p align="center">
     <a href="https://github.com/Arifcodes11/github-readme-streak-stats">
-        <img title="🔥 Streak Stats" alt="Arif's Streak Stats" src="https://streak-stats.demolab.com?user=Arifcodes11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats.vercel.app/?user=Arifcodes11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Arif's Streak Stats" />
     </a>
 </p>
+
 
 ## 📊 Github Stats:
   <br/>
