@@ -76,23 +76,18 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 
 ---
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
----
-
-
-
----
-
 ## 🔥 GitHub Streak  
 <p align="center">
     <a href="https://github.com/Arifcodes11/github-readme-streak-stats">
         <img title="🔥 Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arifcodes11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 ---
