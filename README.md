@@ -67,7 +67,7 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arifcodes11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 Github Stats:
   <br/>
