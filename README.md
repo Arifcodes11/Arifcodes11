@@ -6,7 +6,7 @@
 # Hi there👋, I'm Mohammed Arif
 
 ## 💫 About Me:
-<p align="center">
+<p>
 Final-year Computer Science Engineering student and Full Stack Java Developer. Passionate about building scalable applications and exploring advanced technologies.
 </p>
 
