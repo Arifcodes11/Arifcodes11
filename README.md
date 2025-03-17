@@ -97,7 +97,7 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+<!--## 🐍 GitHub Contribution Snake  -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg" />
@@ -107,9 +107,10 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 ---
 
-## 👀 Profile Visits  
+<!--## 👀 Profile Visits  
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Arifcodes11&icon=5&color=0" alt="Profile Views">
   </a>
 </p>
+-->
