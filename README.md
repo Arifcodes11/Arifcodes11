@@ -69,8 +69,11 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
 
 
 
