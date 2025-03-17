@@ -63,12 +63,17 @@ Final-year Computer Science Engineering student and Full Stack Java Developer. P
 
 
 
-## 📊 Github Stats:
-  <br/>
-    <a href="https://github.com/Arifcodes11/github-readme-stats"><img alt="Arif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arifcodes11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Arifcodes11/github-readme-stats"><img alt="Arif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## 📊 GitHub Stats  
+<p align="center">
+    <a href="https://github.com/Arifcodes11/github-readme-stats">
+        <img alt="Arif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arifcodes11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <br/>
+    <a href="https://github.com/Arifcodes11/github-readme-stats">
+        <img alt="Arif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
 
-  <br/>
 
 ---
 
