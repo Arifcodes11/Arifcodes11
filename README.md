@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/coder1.jpg" alt="header" width="800">
 </p>-->
 
-# Hi there👋, I'm Mohammed Arif  
+# Hello World👋, I'm Mohammed Arif  
 
 ## 💫 About Me  
 Final-year Computer Science Engineering student and Full Stack Java Developer. Passionate about building scalable applications and exploring advanced technologies.
