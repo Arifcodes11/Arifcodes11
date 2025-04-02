@@ -6,7 +6,7 @@
 # Hello World👋, I'm Mohammed Arif  
 
 ## 💫 About Me  
-Final-year Computer Science Engineering student and Full Stack Developer. Passionate about building scalable applications and exploring advanced technologies.
+Final-year Computer Science Engineering student and Full Stack AI Developer. Passionate about building scalable applications and exploring advanced technologies.
 
 ---
 ## 💻 Tech Stack:
