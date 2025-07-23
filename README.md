@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/coder.png" alt="header" width=400"">
+    <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/coder.png" alt="header" width=500"">
 </p> 
 
 # Hello World👋, I'm Mohammed Arif  
