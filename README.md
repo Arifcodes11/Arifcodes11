@@ -70,37 +70,15 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arifcodes11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Arifcodes11">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arifcodes11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Arifcodes11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages"/>
-  </a>
-</p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Arifcodes11&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 ---
 
