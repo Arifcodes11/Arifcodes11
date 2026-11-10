@@ -5,13 +5,15 @@
        width="900">
 </p>
 
-## 👋 Hello World, I'm Mohammed Arif!
+<h1 align="center">👋 Hello World, I'm Mohammed Arif!</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About Me
 
 Final-year Computer Science Engineering student and Full Stack AI Developer. Passionate about building scalable applications and exploring advanced technologies.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -19,7 +21,7 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
   <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,spring,cpp,go,python,html,css,mysql,mongodb,postgres,redis,docker,git,linux,arduino,aws&perline=7" alt="Tech Stack"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
@@ -35,15 +37,32 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 GitHub Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg"
-    alt="Neon Cyan GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg"
+       alt="GitHub Contribution Snake"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect With Me
+
+<details align="center">
+  <summary>🌐 Click here to connect with me</summary>
+
+  <br/>
+
+  <p align="center">
+    <a href="mailto:arifcodes11@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mohammed-arif-codes11/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
