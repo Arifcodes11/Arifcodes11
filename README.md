@@ -73,22 +73,22 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arifcodes11&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-![](https://streak-stats.demolab.com/?user=Arifcodes11&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
----
+--
 
 
+## 🐍 GitHub Contribution Graph
 <!--## 🐍 GitHub Contribution Snake  -->
 <p align="center">
   <picture>
