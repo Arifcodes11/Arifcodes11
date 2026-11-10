@@ -72,34 +72,38 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 
 
-## 📊 GitHub Stats  
+
+## 📊 GitHub Stats
+
 <p align="center">
-    <a href="https://github.com/Arifcodes11/github-readme-stats">
-        <img alt="Arif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arifcodes11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180px"/>
-    </a>
-    <a href="https://github.com/Arifcodes11/github-readme-stats">
-        <img alt="Arif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180px"/>
-    </a>
-</p>
-
-
-
----
-## 🔥 GitHub Streak  
-<p align="center">
-    <a href="https://github.com/Arifcodes11/github-readme-streak-stats">
-        <img title="🔥 Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arifcodes11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/Arifcodes11">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arifcodes11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Arifcodes11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Arifcodes11&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
 
 <!--## 🐍 GitHub Contribution Snake  -->
 <p align="center">
