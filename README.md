@@ -70,14 +70,20 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arifcodes11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats
 
+![](https://github-readme-stats.shion.dev/api?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+<br/>
 
+![](https://streak-stats.demolab.com/?user=Arifcodes11&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arifcodes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 
 ---
