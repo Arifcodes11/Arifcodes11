@@ -1,7 +1,13 @@
 <!-- Header Image -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/coder.png" alt="header" width=500"">
-</p> 
+</p>  -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Anime%20Gamer%20Sipping%20Coffee%20Animation.gif"
+       alt="Anime Gamer Sipping Coffee Animation"
+       width="500">
+</p>
 
 # Hello World👋, {"I'm Mohammed Arif"};  
 
