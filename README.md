@@ -40,10 +40,10 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 ## 🐍 GitHub Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/output/github-snake-dark.svg"
+    alt="Neon Cyan GitHub Contribution Snake"
+  />
 </p>
 
 ---
