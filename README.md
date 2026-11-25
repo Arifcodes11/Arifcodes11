@@ -23,7 +23,15 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=600&color=F5B942&width=420&height=40&repeat=false&lines=%24+cat+tech_stack.txt" alt="tech stack"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,spring,cpp,go,python,html,css,mysql,mongodb,postgres,redis,docker,git,linux,arduino,aws&perline=7" alt="Tech Stack"/>
+  <a href="https://arifcodes11.github.io">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,spring,cpp,go,python,html,css,mysql,mongodb,postgres,redis,docker,git,linux,arduino,aws&perline=7" alt="Tech Stack"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://arifcodes11.github.io">
+    <img src="https://img.shields.io/badge/Hover%20over%20my%20stack-Open%20interactive%20version-3DDC97?style=for-the-badge&labelColor=0B1630" alt="Open interactive tech stack"/>
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Arifcodes_line_final.gif" width="100%" alt="divider">
