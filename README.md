@@ -23,8 +23,32 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=600&color=F5B942&width=420&height=40&repeat=false&lines=%24+cat+tech_stack.txt" alt="tech stack"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,spring,cpp,go,python,html,css,mysql,mongodb,postgres,redis,docker,git,linux,arduino,aws&perline=7" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=800&color=3DDC97&center=true&vCenter=true&width=700&height=30&lines=Languages;Backend+%26+Frontend;Databases;DevOps+%26+Tools" alt="categories"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0B1630,50:16805F,100:3DDC97&section=header&animation=twinkling" width="100%" alt=""/>
+
+<p align="center">
+  <sub><code>// languages</code></sub><br>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,go,python,html,css&theme=dark" alt="Languages"/>
+</p>
+
+<p align="center">
+  <sub><code>// backend & frontend</code></sub><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react&theme=dark" alt="Backend and Frontend"/>
+</p>
+
+<p align="center">
+  <sub><code>// databases</code></sub><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" alt="Databases"/>
+</p>
+
+<p align="center">
+  <sub><code>// devops & tools</code></sub><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,arduino&theme=dark" alt="DevOps and Tools"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:3DDC97,50:16805F,100:0B1630&section=footer&animation=twinkling" width="100%" alt=""/>
 
 <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Arifcodes_line_final.gif" width="100%" alt="divider">
 
