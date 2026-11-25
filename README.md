@@ -32,7 +32,7 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Arifcodes11&show_icons=true&rank_icon=github&hide_border=false&include_all_commits=false&count_private=false&bg_color=0B1630&title_color=3DDC97&text_color=96AAC8&icon_color=F5B942&ring_color=3DDC97&border_color=1D2B4A" height="190" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arifcodes11&layout=donut&langs_count=8&hide_border=false&bg_color=0B1630&title_color=3DDC97&text_color=96AAC8&border_color=1D2B4A" height="190" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcodes11&layout=compact&langs_count=8&hide_border=false&bg_color=0B1630&title_color=3DDC97&text_color=96AAC8&border_color=1D2B4A" height="190" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -41,10 +41,6 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arifcodes11&bg_color=0B1630&color=3DDC97&line=F5B942&point=FFFFFF&area=true&area_color=3DDC97&hide_border=true&radius=10&height=300&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arifcodes11&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Arifcodes_line_final.gif" width="100%" alt="divider">
@@ -57,5 +53,3 @@ Final-year Computer Science Engineering student and Full Stack AI Developer. Pas
 </p>
 
 <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/22.svg" width="100%" alt="Footer"/>
-
-<img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Arifcodes_line_final.gif" width="100%" alt="divider">
