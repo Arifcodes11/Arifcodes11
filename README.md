@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/Anime%20Gamer%20Sipping%20Coffee%20Animation.gif"
-       alt="Anime Gamer Sipping Coffee Animation"
+  <img src="https://raw.githubusercontent.com/Arifcodes11/Arifcodes11/main/@Arifcodes.gif"
+       alt="Arifcodes Animation"
        width="900">
 </p>
 
