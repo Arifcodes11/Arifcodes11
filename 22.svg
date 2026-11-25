@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 200" width="100%" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ddc97"/>
+      <stop offset="50%" stop-color="#f5b942"/>
+      <stop offset="100%" stop-color="#3ddc97"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22345c"/>
+      <stop offset="45%" stop-color="#101a36"/>
+      <stop offset="100%" stop-color="#060b1a"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- circuit traces -->
+  <g fill="none" stroke="url(#g1)" stroke-width="1.5" opacity="0.8" filter="url(#glow)">
+    <path d="M0,40 H180 L210,70 H420 L450,40 H700 L730,70 H950 L980,40 H1200" stroke-dasharray="12 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-88" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,70 H90 L120,95 H330 L360,70 H600 L630,95 H860 L890,70 H1200" stroke-dasharray="6 12" opacity="0.6">
+      <animate attributeName="stroke-dashoffset" from="0" to="72" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- circuit nodes -->
+  <g filter="url(#glow)">
+    <circle cx="210" cy="70" r="3" fill="#3ddc97"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="40" r="3" fill="#f5b942"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="70" r="3" fill="#3ddc97"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="40" r="3" fill="#d9739a"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="70" r="2.5" fill="#f5b942"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="95" r="2.5" fill="#3ddc97"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- floating binary / code -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#96aac8">
+    <text x="60" y="110" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="4s" repeatCount="indefinite"/><animate attributeName="y" values="120;85" dur="4s" repeatCount="indefinite"/>01101</text>
+    <text x="300" y="110" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="5s" begin="1s" repeatCount="indefinite"/><animate attributeName="y" values="125;80" dur="5s" begin="1s" repeatCount="indefinite"/>&lt;/&gt;</text>
+    <text x="560" y="110" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="4.5s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="y" values="120;82" dur="4.5s" begin="0.5s" repeatCount="indefinite"/>10010</text>
+    <text x="820" y="110" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="5.5s" begin="2s" repeatCount="indefinite"/><animate attributeName="y" values="125;80" dur="5.5s" begin="2s" repeatCount="indefinite"/>{ }</text>
+    <text x="1060" y="110" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="4s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="120;85" dur="4s" begin="1.5s" repeatCount="indefinite"/>11010</text>
+  </g>
+
+  <!-- wave 3 (back, teal) -->
+  <path fill="#2f8f8a" opacity="0.35"
+        d="M0,150 Q150,115 300,150 T600,150 T900,150 T1200,150 T1500,150 T1800,150 L1800,200 L0,200 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- wave 2 (middle, slate blue, reverse) -->
+  <path fill="#2a4170" opacity="0.6"
+        d="M0,135 Q75,105 150,135 T300,135 T450,135 T600,135 T750,135 T900,135 T1050,135 T1200,135 T1350,135 T1500,135 L1500,200 L0,200 Z">
+    <animateTransform attributeName="transform" type="translate" from="-300 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- wave 1 (front, navy gradient) -->
+  <path fill="url(#g2)" opacity="0.97"
+        d="M0,120 Q100,80 200,120 T400,120 T600,120 T800,120 T1000,120 T1200,120 T1400,120 T1600,120 L1600,200 L0,200 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- signature -->
+  <a target="_top" xlink:href="https://github.com/Arifcodes">
+    <text x="600" y="185" text-anchor="middle" fill="#96aac8" font-family="Consolas, 'Courier New', monospace" font-size="12" opacity="0.95">@Arifcodes</text>
+  </a>
+</svg>
